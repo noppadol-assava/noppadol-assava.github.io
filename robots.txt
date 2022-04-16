@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://noppadol-assava.github.io/sitemap.xml
+Sitemap: https://brilliant-churros-5d21c0.netlify.app/sitemap.xml
